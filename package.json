@@ -1,6 +1,9 @@
 {
+  "homepage":"https://ashutosh-kr-s.github.io/RazorPay_/",
   "scripts": {
-    "start": "vite"
+    "start": "vite",
+    "predeploy":"npm run start",
+    "deploy":"gh-pages -d build"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.19",
