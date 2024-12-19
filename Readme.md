@@ -1,1 +1,1 @@
-Deployment link : https://ashutosh-kr-s.github.io/RazorPay_/
+Deployment link : https://razor-pay-ghx5.vercel.app/
