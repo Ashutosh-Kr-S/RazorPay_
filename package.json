@@ -1,18 +1,21 @@
 {
-  "homepage":"https://ashutosh-kr-s.github.io/RazorPay_/",
+  "name": "tailwind",
+  "version": "1.0.0",
+  "description": "Tailwind",
+  "main": "index.js",
   "scripts": {
-    "start": "vite",
-    "predeploy":"npm run start",
-    "deploy":"gh-pages -d build"
+    "start": "vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "feather": "^0.0.5",
+    "vite": "^5.3.5",
+    "feather-icons": "^4.29.2"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.19",
     "postcss": "^8.4.40",
-    "tailwindcss": "^3.4.7",
-    "vite": "^5.3.5"
-  },
-  "dependencies": {
-    "feather": "^0.0.5",
-    "feather-icons": "^4.29.2"
+    "tailwindcss":"^3.4.7"
   }
 }
